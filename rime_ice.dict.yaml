@@ -14,6 +14,10 @@ import_tables:
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   - cn_dicts/self
+  # 颜文字词库来源：https://github.com/aoguai/rime_kaomoji_dict
+  - kaomoji/kaomoji_kmj              # 以kmj为键的颜文字词库
+  - kaomoji/kaomoji_pinyin           # 以拼音为键的颜文字词库
+  - kaomoji/kaomoji_shuangpin_xiaohe # 以双拼为键的颜文字词库
 ...
 
 # 按需启用：
