@@ -44,8 +44,6 @@ var onlyOne = map[string]string{
 	"私钥":  "si yao",
 	"甲壳":  "jia ke",
 	"掉色":  "diao se",
-	"变色":  "bian se",
-	"上色":  "shang se",
 	"怎么着": "zen me zhe",
 	"这么着": "zhe me zhe",
 	"那么着": "na me zhe",
@@ -85,6 +83,7 @@ var onlyOne = map[string]string{
 	"绿":   "lv",
 	"圈里":  "quan li",
 	"圈外":  "quan wai",
+	"咱家":  "zan jia",
 	"圈":   "quan",
 	"伯":   "bo",
 	"胖":   "pang",
@@ -236,9 +235,12 @@ var onlyOne = map[string]string{
 	"葚":   "shen",
 	"嘞":   "lei",
 	"凹":   "ao",
+	"给":   "gei",
+	"栖":   "qi",
+	"窨":   "yin",
 }
 
-func init() {
+func initPinyin() {
 	// 从 base、ext 准备结巴的词典和词组拼音映射
 	for _, dictPath := range []string{BasePath, ExtPath} {
 		file, err := os.Open(dictPath)
