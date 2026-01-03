@@ -1,0 +1,3 @@
+patch:
+  translator/preedit_format: [] # 关闭全拼上屏，以实际输入为上屏内容
+  #"style/font_point": 20     # 字號，只認數字的，不認「五號」、「小五」這樣的
