@@ -1,4 +1,12 @@
-# 雾凇拼音
+# 雾凇拼音 modified by wold9168
+
+*本分支为 wold9168 的雾凇拼音用例*
+
+Licensed under the GPL 3.0.
+
+---
+
+以下为原 README 内容
 
 [![License: GPL 3.0](https://img.shields.io/badge/License-GPL--3.0--only-34ad9b)](https://www.gnu.org/licenses/gpl-3.0.txt)
 [![GitHub Release](https://img.shields.io/github/v/release/iDvel/rime-ice?filter=!nightly)](https://github.com/iDvel/rime-ice/releases/)
@@ -335,4 +343,3 @@ Thanks to JetBrains for the OSS development license.
 如果觉得项目不错，可以请 Dvel 吃个煎饼馃子。
 
 <img src="./others/sponsor.webp" alt="请 Dvel 吃个煎饼馃子" width=300 />
-
