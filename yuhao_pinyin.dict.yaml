@@ -7464,6 +7464,7 @@ columns:
 专利	zhuan li	2476
 关联	guan lian	2476
 助理	zhu li	2476
+即時	shi shi	2476
 实时	shi shi	2476
 實時	shi shi	2476
 專利	zhuan li	2476
@@ -30776,7 +30777,6 @@ columns:
 不得已	bu de yi	426
 不断发展	bu duan fa zhan	426
 不斷發展	bu duan fa zhan	426
-不斷髮展	bu duan fa zhan	426
 也快	ye kuai	426
 五星	wu xing	426
 代工	dai gong	426
@@ -31162,7 +31162,6 @@ columns:
 出什么	chu shen me	419
 出什麼	chu shen me	419
 出什麽	chu shen me	419
-匯豐	hui feng	419
 十屆	shi jie	419
 十届	shi jie	419
 单元格	dan yuan ge	419
@@ -35708,7 +35707,6 @@ columns:
 熄燈	xi deng	353
 猪八戒	zhu ba jie	353
 生長發育	sheng zhang fa yu	353
-生長髮育	sheng zhang fa yu	353
 生长发育	sheng zhang fa yu	353
 痉挛	jing luan	353
 痙攣	jing luan	353
@@ -47620,6 +47618,7 @@ columns:
 心肠	xin chang	243
 心腸	xin chang	243
 慈溪	ci xi	243
+慈谿	ci xi	243
 慮	bi	243
 慮	lv	243
 成功者	cheng gong zhe	243
@@ -68471,6 +68470,7 @@ columns:
 华东地区	hua dong di qu	146
 单凭	dan ping	146
 占便宜	zhan pian yi	146
+即時監控	shi shi jian kong	146
 去跟	qu gen	146
 双头	shuang tou	146
 发麻	fa ma	146
@@ -86130,6 +86130,7 @@ columns:
 愛犬	ai quan	105
 愤愤不平	fen fen bu ping	105
 慈溪市	ci xi shi	105
+慈谿市	ci xi shi	105
 憤憤不平	fen fen bu ping	105
 應收款	ying shou kuan	105
 懒猫	lan mao	105
@@ -130894,7 +130895,6 @@ columns:
 匯川	hui chuan	0
 匯川區	hui chuan qu	0
 匯改	hui gai	0
-匯業	hui ye	0
 匯款人	hui kuan ren	0
 匯款單	hui kuan dan	0
 匯流	hui liu	0
@@ -146319,6 +146319,7 @@ columns:
 大佐	da zuo	0
 大余	da yu	0
 大余县	da yu xian	0
+大余縣	da yu xian	0
 大佛	da fu	0
 大作家	da zuo jia	0
 大便乾燥	da bian gan zao	0
@@ -158863,6 +158864,7 @@ columns:
 幹架	gan jia	0
 幹校	gan xiao	0
 幹活兒	gan huo er	0
+幹渠	gan qu	0
 幹管	gan guan	0
 幹罷	gan ba	0
 幹羣	gan qun	0
@@ -159666,6 +159668,7 @@ columns:
 廣寧縣	guang ning xian	0
 廣州中醫藥大學	guang zhou zhong yi yao da xue	0
 廣州恆大	guang zhou heng da	0
+廣州恒大	guang zhou heng da	0
 廣州的	guang zhou de	0
 廣州美術學院	guang zhou mei shu xue yuan	0
 廣州話	guang zhou hua	0
@@ -160430,7 +160433,6 @@ columns:
 弗里德里希	fu li de li xi	0
 弗里曼	fu li man	0
 弗雷德裏克	fu lei de li ke	0
-弗雷德裡克	fu lei de li ke	0
 弗雷德里克	fu lei de li ke	0
 弘一大师	hong yi da shi	0
 弘一大師	hong yi da shi	0
@@ -164079,8 +164081,11 @@ columns:
 恒湿	heng shi	0
 恒牙	heng ya	0
 恒生指数	heng sheng zhi shu	0
+恒生指數	heng sheng zhi shu	0
 恒生电子	heng sheng dian zi	0
+恒生銀行	heng sheng yin hang	0
 恒生银行	heng sheng yin hang	0
+恒生電子	heng sheng dian zi	0
 恒等	heng deng	0
 恕不	shu bu	0
 恕罪	shu zui	0
@@ -165425,9 +165430,7 @@ columns:
 慈禧太后	ci xi tai hou	0
 慈禧太後	ci xi tai hou	0
 慈航	ci hang	0
-慈谿	ci xi	0
 慈谿县	ci xi xian	0
-慈谿市	ci xi shi	0
 慈谿縣	ci xi xian	0
 慈雲	ci yun	0
 慊慊	qian qian	0
@@ -168062,6 +168065,7 @@ columns:
 扶风县	fu feng xian	0
 扶養	fu yang	0
 扶餘	fu yu	0
+扶餘縣	fu yu xian	0
 扸	zhe	0
 批上	pi shang	0
 批下來	pi xia lai	0
@@ -192786,6 +192790,7 @@ columns:
 浮桥	fu qiao	0
 浮梁	fu liang	0
 浮梁县	fu liang xian	0
+浮梁縣	fu liang xian	0
 浮樑	fu liang	0
 浮樑縣	fu liang xian	0
 浮標	fu biao	0
@@ -194708,6 +194713,8 @@ columns:
 湖沼	hu zhao	0
 湖蓝	hu lan	0
 湖藍	hu lan	0
+湖裏區	hu li qu	0
+湖裡區	hu li qu	0
 湖西	hu xi	0
 湖里区	hu li qu	0
 湖里區	hu li qu	0
@@ -211678,6 +211685,8 @@ columns:
 稿约	gao yue	0
 稿纸	gao zhi	0
 穀倉	gu cang	0
+穀城	gu cheng	0
+穀城縣	gu cheng xian	0
 穀梁傳	gu liang zhuan	0
 穀氨酸	gu an suan	0
 穀粒	gu li	0
@@ -237103,6 +237112,7 @@ columns:
 資興市	zi xing shi	0
 資訊中心	zi xun zhong xin	0
 資訊科技	zi xun ke ji	0
+資谿	zi xi	0
 資財	zi cai	0
 資金不足	zi jin bu zu	0
 資金佔用	zi jin zhan yong	0
@@ -241356,6 +241366,8 @@ columns:
 辰溪	chen xi	0
 辰溪县	chen xi xian	0
 辰溪縣	chen xi xian	0
+辰谿	chen xi	0
+辰谿縣	chen xi xian	0
 辰龍	chen long	0
 辰龙	chen long	0
 辱国	ru guo	0
@@ -252811,6 +252823,7 @@ columns:
 陸良縣	lu liang xian	0
 陸行	lu xing	0
 陸讋水慄	lu zhe shui li	0
+陸讋水栗	lu zhe shui li	0
 陸豐	lu feng	0
 陸豐市	lu feng shi	0
 陸賈	lu jia	0

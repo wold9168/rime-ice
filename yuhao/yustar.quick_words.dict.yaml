@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick_words"
-version: "20250312"
+version: "20250905"
 sort: original
 columns:
   - text
@@ -39,7 +39,7 @@ columns:
 京城	ai
 想法	aj
 交通	ak
-來説	al
+來說	al
 機會	an
 棒球	ao
 標準	ap
@@ -81,7 +81,7 @@ columns:
 雨水	cv
 媽媽	cw
 衡量	cx
-較爲	da
+較為	da
 車輛	dc
 谁知	de
 專家	dk
@@ -92,12 +92,11 @@ columns:
 该死	dt
 向上	dx
 帮助	dy
-至於	dz
+至于	dz
 体会	ea
 信息	eb
 侧面	ec
 似乎	ee
-什麽	eg
 偏向	eh
 传统	ei
 以及	ek
@@ -105,13 +104,13 @@ columns:
 他的	eo
 偷偷	er
 风格	es
-在於	eu
+在于	eu
 優勢	ev
 有些	ew
 报道	fa
 五月	fb
 再次	fc
-推進	fe
+推进	fe
 无限	ff
 龙头	fg
 于是	fk
@@ -135,11 +134,10 @@ columns:
 及其	gk
 囊括	gl
 笑容	gm
-失误	go
+失誤	go
 延續	gp
 無限	gs
 简单	gt
-怎麽	gu
 筋骨	gw
 卖身	gy
 竹子	gz
@@ -159,7 +157,7 @@ columns:
 宋朝	ia
 当时	ib
 安排	ic
-室内	id
+室內	id
 實現	ie
 少年	ig
 火焰	ih
@@ -197,16 +195,16 @@ columns:
 丝绸	kk
 公司	kn
 过去	ko
-式樣	kp
+式样	kp
 继续	kq
 入股	kr
 孩子	kt
 子女	kz
 三星	la
 听说	ld
-耳機	le
+耳机	le
 味道	lf
-吃饭	lg
+吃飯	lg
 吵架	li
 只有	lk
 品牌	ll
@@ -227,7 +225,7 @@ columns:
 疼痛	mt
 店鋪	mu
 動靜	mv
-移動	mx
+移动	mx
 长期	nc
 油脂	nd
 没有	ne
@@ -247,7 +245,7 @@ columns:
 統計	oa
 巴西	ob
 納入	oc
-級别	og
+級別	og
 結果	oh
 钟爱	ol
 繼續	on
@@ -266,12 +264,12 @@ columns:
 践踏	pf
 工作	pg
 特别	ph
-醒来	pj
+醒來	pj
 歲月	pk
 配置	po
 酷愛	pp
 蹲点	pq
-物质	pw
+物質	pw
 西安	px
 足球	pz
 弟弟	qb
@@ -294,9 +292,9 @@ columns:
 惊喜	ra
 體會	rd
 會議	rf
-心靈	ri
+心灵	ri
 今天	rk
-舒適	rl
+舒适	rl
 劍客	rm
 惨败	rn
 性能	rp
@@ -324,7 +322,7 @@ columns:
 荒唐	st
 菜单	su
 萬能	sv
-散發	sw
+散发	sw
 带来	sx
 用户	sy
 条件	ta
@@ -332,7 +330,7 @@ columns:
 鋼鐵	tc
 文章	te
 方面	tf
-金额	tj
+金額	tj
 錢包	tk
 问题	tl
 门槛	tm
@@ -352,7 +350,7 @@ columns:
 点燃	ul
 雞蛋	un
 其中	uq
-悲观	ur
+悲觀	ur
 處理	ut
 虚假	uu
 期待	uw
@@ -411,7 +409,7 @@ columns:
 阿姨	yj
 障碍	yk
 敢于	yl
-承擔	yn
+承担	yn
 蛋糕	yp
 隊員	yq
 除了	yr

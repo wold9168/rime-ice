@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar_sc.short"
-version: "20250312"
+version: "20250905"
 sort: original
 columns:
   - text
@@ -55,7 +55,6 @@ columns:
 ⾪	bd
 弓	bg
 𢎗	bg
-𢎜	bg
 ⼸	bg
 彐	bj
 肀	bj
@@ -104,7 +103,6 @@ columns:
 	bo
 	bo
 	bo
-	bo
 皮	bp
 ⽪	bp
 尸	bs
@@ -277,7 +275,6 @@ columns:
 𘯧	ei
 𘳀	ei
 𘳋	ei
-✅	ei
 几	ej
 𠘧	ej
 𠘨	ej
@@ -537,6 +534,7 @@ columns:
 ᅩ	jv
 ㅗ	jv
 𘮜	jv
+	jv
 	jv
 王	jw
 𤣩	jw
@@ -823,6 +821,7 @@ columns:
 𛁅	oz
 齒	pc
 ⿒	pc
+𳑩	pc
 工	pg
 𪛜	pg
 ⼯	pg
@@ -859,6 +858,7 @@ columns:
 𧾷	pz
 ⻊	pz
 ⾜	pz
+𲧱	pz
 虫	qc
 ⾍	qc
 自	qi
@@ -944,7 +944,6 @@ columns:
 𘱌	si
 	si
 ×	si
-❌	si
 力	sl
 ⼒	sl
 力	sl
@@ -1044,6 +1043,7 @@ columns:
 	ub
 	ub
 	ub
+𳑳	ub
 長	uc
 镸	uc
 ⻑	uc
@@ -1132,6 +1132,7 @@ columns:
 魚	vv
 禺	vv
 ⿂	vv
+𳍘	vv
 习	vx
 	vx
 勹	wb
@@ -1171,6 +1172,7 @@ columns:
 	wr
 	wr
 	wr
+𖿲	wr
 囗	ww
 ⼞	ww
 月	wy

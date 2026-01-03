@@ -10,7 +10,7 @@ schema:
     - Rime方案 <https://shurufa.app/zht>
     - 官方QQ群 735728797
   description: |
-    宇浩·星陳，繁簡通打，以臺灣標準字形爲主設置簡碼。
+    星陳輸入法，繁簡通打，以臺灣標準字形爲主設置簡碼。
   dependencies:
     - yuhao_pinyin
     - yustar_chaifen_tw
@@ -19,8 +19,7 @@ switches:
   - options:
       - original
       - yuhao_charset_prioritizer_common
-      - yuhao_charset_prioritizer_ubiquitous
-    states: [原始排序, 常用字優先, 極常用字優先]
+    states: [原始排序, 常用字優先]
     reset: 1
     # Control+Shift+M
   - options:
@@ -65,6 +64,9 @@ switches:
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
+  - name: yuhao_tw_first
+    reset: 0
+    states: [繁簡混頻, 正體優先]
 
 engine:
   processors:
@@ -102,7 +104,7 @@ engine:
     - lua_filter@*yuhao.yuhao_chaifen_filter
     - lua_filter@*yuhao.yuhao_postpone_full_code
     - lua_filter@*yuhao.yuhao_charset_prioritizer_common
-    - lua_filter@*yuhao.yuhao_charset_prioritizer_ubiquitous
+    - lua_filter@*yuhao.yuhao_tw_first
     - uniquifier
 
 traditionalize:
@@ -139,8 +141,8 @@ yuhao_chaifen:
     cycle_key: "Shift+Control+C"
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba/
-  initials: zyxwvutsrqponmlkjihgfedcba/
+  alphabet: abcdefghijklmnopqrstuvwxyz/
+  initials: abcdefghijklmnopqrstuvwxyz/
   delimiter: "`"
   max_code_length: 4
   auto_select: false
@@ -180,13 +182,13 @@ fixed:
 
 history:
   input: z
-  size: 9
+  size: 1
   initial_quality: 1
 
 reverse_lookup:
   dictionary: yuhao_pinyin
   prefix: "z"
-  tips: 〔全拼簡拼反查〕
+  tips: 〔全拼反查〕
   closing_tips: 〔反查关闭〕
   preedit_format:
     - xform/([nl])v/$1ü/
