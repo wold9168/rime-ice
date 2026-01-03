@@ -1,0 +1,47 @@
+# 以 patch: 开头，后面的内容都需要缩进
+patch:
+  # 保留已有的快捷键，追加一个逗号句号翻页
+  schema_list/+:
+    - schema: wubi_pinyin # 五笔拼音
+    - schema: wubi_trad # 五笔简入繁出
+    - schema: zhengma # 郑码
+    - schema: yustar     # 單字全碼 + 重要一級簡碼 + 重要二級簡碼 + 避重三級簡碼 + （可手動載入繁簡簡碼、詞語分字典）
+    - schema: yustar_sc  # 以简化汉字为主设置简码
+    # - schema: yustar_tc  # 以傳統漢字爲主設置簡碼
+    - schema: yustar_tw  # 以臺灣傳統漢字爲主設置簡碼
+  key_binder/bindings/+:
+    - { when: paging, accept: comma, send: Page_Up }
+    - { when: has_menu, accept: period, send: Page_Down }
+  punctuator/half_shape:
+    ',' : { commit: ， }
+    '.' : { commit: 。 }
+    '<' : [ 《, 〈, «, ‹ ]
+    '>' : [ 》, 〉, », › ]
+    '/' : [ 、, '/', ／, ÷ ]
+    '?' : { commit: ？ }
+    ';' : { commit: ； }
+    ':' : { commit: ： }
+    '''' : { pair: [ '‘', '’' ] }
+    '"' : { pair: [ '“', '”' ] }
+    '\' : [ 、, '\', ＼ ]
+    '|' : [ ·, '|', ｜, '§', '¦' ]
+    '`' : '`'
+    '~' : [ '~', ～ ]
+    '!' : { commit: ！ }
+    '@' : '@'
+    '#' : '#'
+    '%' : [ '%', ％, '°', '℃' ]
+    '$' : [ ￥, '$', '€', '£', '¥', '¢', '¤' ]
+    '^' : { commit: …… }
+    '&' : '&'
+    '*' : [ '*', ＊, ·, ・, ×, ※, ❂ ]
+    '(' : （
+    ')' : ）
+    '-' : '-'
+    '_' : ——
+    '+' : '+'
+    '=' : '='
+    '[' : [ 「, 【, 〔, ［ ]
+    ']' : [ 」, 】, 〕,  ］ ]
+    '{' : [ 『, 〖, ｛ ]
+    '}' : [ 』, 〗, ｝ ]
