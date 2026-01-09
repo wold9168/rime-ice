@@ -2,7 +2,7 @@
 # encoding: utf-8
 #
 # Kaomoji dictionary for Rime input method engine
-# 
+#
 # Created with rime_kaomoji_dict generator
 #
 # https://github.com/aoguai/rime_kaomoji_dict
@@ -563,7 +563,7 @@ _〆(´Д｀ )	hx qr	1
 @(/o･ｪ･o)@/	hz zi	1
 ヽ( o･ｪ･)ﾉ&nbsp;	hz zi	1
 ٩(͡๏̯͡๏)۶	hz zi	1
-|<(=·_·=)> |·_·=)> |_·=)> |·=)> |>	i	1
+# |<(=·_·=)> |·_·=)> |_·=)> |·=)> |>	i	1
 <(=-@y@)	ig yj jk	1
 ♪q(^_^q=)><(=p^-^)p♪q(^-^q=)><(=p^_^)p♪	ih ge	1
 ψ(｀∇´)ψ	ii dm	1
