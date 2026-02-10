@@ -2,8 +2,8 @@
 #@/db_name	yustar
 #@/db_type	tabledb
 #@/rime_version	1.11.2
-#@/tick	2150
-林	aa	2
+#@/tick	2182
+林	aa	4
 森林	aaaa	2
 𣛧	aaaa	2
 𣡕	aaaa	2
@@ -65,6 +65,7 @@
 聿	bak	2
 建立	bakl	2
 双	bbo	6
+观	bcjo	2
 隶	bdd	4
 語	bf	2
 君	bglv	2
@@ -80,6 +81,7 @@
 对	bkco	16
 对抗	bkfa	2
 迟	bkoc	2
+嬖	blkc	4
 避	blko	2
 强	blqc	2
 马	bm	2
@@ -147,7 +149,7 @@
 需	csrv	4
 网	cssi	2
 页	cyy	4
-的	d	108
+的	d	110
 谪居	dabj	2
 白楊	dbaj	2
 译	dbak	2
@@ -176,7 +178,7 @@
 阜	dgid	2
 卑	dgig	2
 读	dgy	2
-读	dgyo	6
+读	dgyo	8
 讵	dhbo	4
 戶	dhh	2
 请	dhwy	4
@@ -190,7 +192,7 @@
 到	dmdz	12
 門	dmm	2
 追	docd	2
-记	doj	4
+记	doj	8
 记	dojy	2
 片	dp	2
 说明	dqjw	2
@@ -334,14 +336,16 @@
 指令	fnrk	6
 把	fob	4
 天	fod	14
+天	fodi	2
 尢	foo	2
 尤	foo	2
 天蓬	fost	2
 来	fq	8
-来	fqm	18
+来	fqm	20
 来	fqmi	2
 执行	frci	2
 执	frkd	4
+热	frki	2
 手术	fsak	2
 描述	fsak	4
 形	fscp	2
@@ -384,6 +388,7 @@
 及	gkd	4
 禹	glcj	2
 笔	gmm	2
+笔	gmmz	4
 乃	gn	2
 么	gna	12
 么	gnap	2
@@ -404,6 +409,7 @@
 遍	hcoc	2
 雅	heha	4
 与	hf	12
+匚	hff	2
 与	hfi	2
 与	hfik	2
 表达	hgoo	2
@@ -440,6 +446,7 @@
 坏	hvu	2
 扇	hvvx	2
 均	hwir	4
+青	hwy	2
 场	hycp	2
 壴	hzz	2
 走	hzz	2
@@ -474,7 +481,7 @@
 井	ikar	4
 进程	ikml	2
 进	ikoc	12
-字	ikz	2
+字	ikz	4
 光标	ilaj	4
 光棍	ilaj	2
 宫刑	ilfs	2
@@ -516,6 +523,9 @@
 福	jflv	2
 是	jfpi	24
 量	jfvl	2
+古	jg	2
+古文	jgte	2
+昨	jgub	2
 具	jka	2
 时	jkc	2
 时	jkcr	12
@@ -566,7 +576,7 @@
 新生	kaps	2
 辯護人	kbre	2
 丶	kd	2
-了	ke	18
+了	ke	20
 了	kee	4
 维	keh	2
 维	kehj	2
@@ -693,6 +703,7 @@
 重	mvlq	2
 磨	mvs	2
 黎	mwgn	2
+邌	mwgo	2
 移	mx	2
 称	mxiv	2
 库	mxj	4
@@ -700,6 +711,7 @@
 幺	naa	2
 流	nan	2
 流	nanw	8
+汉语	nbdf	2
 长	ncc	2
 洞	ncfl	6
 派	ndgy	2
@@ -767,6 +779,7 @@
 特	phkc	4
 巧	phkg	4
 踋	phna	6
+止	pi	2
 止	pii	2
 步	piv	4
 朱	pka	2
@@ -793,6 +806,7 @@
 自行	qici	2
 料	qigi	2
 自	qii	6
+粿	qjam	2
 单词	qjdy	2
 单	qjgi	6
 丷	qkk	2
@@ -802,6 +816,7 @@
 美	qod	2
 关	qodk	4
 类	qodm	6
+蚨	qofc	2
 送	qooc	4
 尊	qpkc	2
 首	qq	6
@@ -839,7 +854,7 @@
 介绍	rkkm	2
 今	rkyi	4
 含	rkyl	2
-念	rkyr	2
+念	rkyr	4
 性	rps	4
 从	rr	4
 骸	rthg	2
@@ -853,6 +868,7 @@
 英	sc	2
 英	scod	8
 英文	scte	2
+黄	sdka	2
 若	selv	4
 花	senb	2
 获	shhq	8
@@ -901,9 +917,9 @@
 刻	tmd	2
 刻	tmdh	2
 这	toc	8
-这	toce	4
+这	toce	6
 阐	tqjg	2
-阅	tqlw	8
+阅	tqlw	12
 豕	tss	2
 𧰨	tss	2
 处	tu	2
@@ -937,7 +953,7 @@
 顾	va	2
 破	vbp	4
 原	vd	2
-原	vdiv	2
+原	vdiv	4
 研	vf	2
 研	vfso	6
 厂	vhh	4
@@ -993,6 +1009,7 @@
 被	xbp	4
 轻	xbpg	2
 争	xbyi	2
+饿	xgfk	2
 农安	xgic	2
 农	xgy	2
 鳞次栉比	xian	2
