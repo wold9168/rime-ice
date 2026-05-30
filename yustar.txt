@@ -2,8 +2,8 @@
 #@/db_name	yustar
 #@/db_type	tabledb
 #@/rime_version	1.11.2
-#@/tick	2182
-林	aa	4
+#@/tick	2165
+林	aa	2
 森林	aaaa	2
 𣛧	aaaa	2
 𣡕	aaaa	2
@@ -32,6 +32,7 @@
 相应	ajmn	2
 标	ajs	6
 标	ajsm	4
+橼	aket	4
 材	akgp	2
 㐄	akk	12
 𰀁	akk	2
@@ -334,9 +335,14 @@
 批	fnnb	6
 指针	fnog	2
 指令	fnrk	6
+𡘸	foal	2
 把	fob	4
+<<<<<<< Updated upstream
 天	fod	14
 天	fodi	2
+=======
+天	fod	16
+>>>>>>> Stashed changes
 尢	foo	2
 尤	foo	2
 天蓬	fost	2
@@ -446,7 +452,11 @@
 坏	hvu	2
 扇	hvvx	2
 均	hwir	4
+<<<<<<< Updated upstream
 青	hwy	2
+=======
+静	hwxy	2
+>>>>>>> Stashed changes
 场	hycp	2
 壴	hzz	2
 走	hzz	2
@@ -505,6 +515,7 @@
 煤耗	isdk	2
 龸	iss	2
 家	its	2
+家	itsm	2
 常	iuj	2
 小	iv	2
 小	ivv	2
@@ -529,6 +540,7 @@
 具	jka	2
 时	jkc	2
 时	jkcr	12
+时逢	jktd	2
 可	jl	4
 最	jlbo	2
 可以	jlek	2
@@ -691,6 +703,7 @@
 和	mlv	6
 和	mlvh	10
 毛	mmm	2
+広	mnag	2
 应该	mndt	2
 应按	mnfi	4
 应	mns	4
@@ -699,6 +712,7 @@
 庆	mod	2
 剩下	mqjx	2
 垂	msfi	2
+疝	mus	2
 重	mvl	24
 重	mvlq	2
 磨	mvs	2
@@ -748,12 +762,13 @@
 学习	nxvx	2
 沈	nxwr	2
 键	obag	2
+镪	oblq	2
 规则	occm	2
 规定	ocif	2
 规	ocjf	2
 大	od	4
 大	odd	12
-也	oe	4
+也	oe	6
 也	oee	8
 緣	oets	2
 夸	ofhk	2
@@ -762,6 +777,7 @@
 已	oii	4
 規定	ojif	2
 态	okri	2
+𫓶	olwy	2
 错	osjr	16
 异	oso	2
 异步	ospi	2
@@ -995,6 +1011,7 @@
 因	wodw	2
 包	wos	4
 包	wosb	2
+胜	wps	2
 𦜠	wvlj	2
 四	ww	6
 删	wwfm	2
@@ -1028,6 +1045,7 @@
 蟹黃	xssi	2
 角	xsy	4
 补	xuby	2
+冚	xusm	4
 危害	xvih	2
 夕	xx	2
 饶	xxgl	2
