@@ -1,16 +1,18 @@
 #Nothing More
 ---
 name: self
-version: "2023-10-07"
+version: "2026-06-10"
 sort: by_weight
 ...
-東雲	dong yun
-寺貍	si li
-阙悳	que de
-犬走椛	quan zou hua
-椛	hua
-✓	dui 2
-← zuo 2
-→ you 2
-↑ shang 2
-↓ xia 2
+
+東雲	dong yun	2
+寺貍	si li	2
+阙悳	que de	2
+犬走椛	quan zou hua	2
+椛	hua	2
+✓	dui	2
+←	zuo	2
+→	you	2
+↑	shang	2
+↓	xia	2
+⇧	shang dang	2
