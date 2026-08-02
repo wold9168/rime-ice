@@ -21,7 +21,7 @@ import_tables:
   # 以下是字根提示
   - yuhao/yustar.roots
   # 以下是擴展詞庫
-  - yuhao/yuhao.private
+  # - yuhao/yuhao.private
   # 以下是全碼詞庫，可注釋掉
   - yuhao/yustar.words
   - yuhao/yustar_tc.words

@@ -14,7 +14,7 @@ import_tables:
   # - yuhao/yustar.adjusted
   - yuhao/yustar_sc.short
   - yuhao/yustar.roots
-  - yuhao/yuhao.private
+  # - yuhao/yuhao.private
   - yuhao/yustar_sc.words
   # - yuhao/yustar_tc.words
   - yuhao/yuhao.symbols
